@@ -60,7 +60,7 @@ Installation
 To set up the project environment, ensure you have Python installed, then install the required libraries:
 
 Bash
-
+```
 pip install transformers datasets scikit-learn torch numpy tqdm
 Usage
 The code.ipynb notebook contains the implementation details and training pipeline.
