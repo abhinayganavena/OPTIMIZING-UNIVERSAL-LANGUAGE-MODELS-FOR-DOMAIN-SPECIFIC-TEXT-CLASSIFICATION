@@ -31,7 +31,7 @@ Multi-Domain Training: Trained and evaluated on diverse datasets including IMDb,
 
 Text Classification and Generation: Capable of both text classification and generation tasks, supporting context-aware, real-time predictions.
 
-# Research Gaps Addressed
+# Research Gaps Addressed:
 This project aims to address several common challenges in text classification, as identified in the literature review:
 
 Mitigating performance decreases when working with biased or imbalanced datasets.
